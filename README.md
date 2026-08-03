@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite">
   <img src="https://img.shields.io/badge/CustomTkinter-UI-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge">
 </p>
 
 ---
