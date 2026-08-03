@@ -48,18 +48,32 @@ O projeto foi desenvolvido seguindo o padrão **MVC**, facilitando futuras expan
 
 # 🖥️ Interface
 
-Em breve serão adicionadas imagens do sistema.
+### 🔒 Login
+![Login](imagens/login.png)
 
-```
-📊 Dashboard
-💰 Receitas
-💸 Despesas
-🏦 Contas
-💳 Cartões
-🎯 Metas
-📄 Relatórios
-⚙️ Configurações
-```
+### 📊 Dashboard
+![Dashboard](imagens/dashboard.png)
+
+### 💰 Receitas
+![Receitas](imagens/receita.png)
+
+### 💸 Despesas
+![Despesas](imagens/despesa.png)
+
+### 🏦 Contas
+![Contas](imagens/contas.png)
+
+### 💳 Cartões
+![Cartões](imagens/cartoes.png)
+
+### 🎯 Metas Financeiras
+![Metas](imagens/metas.png)
+
+### 📄 Relatórios
+![Relatórios](imagens/relatorios.png)
+
+### ⚙️ Configurações
+![Configurações](imagens/configuracoes.png)
 
 ---
 
@@ -190,18 +204,18 @@ dist/
 # 📊 Roadmap
 
 - [x] Sistema de Login
-- [ ] Dashboard Financeiro
-- [ ] Cadastro de Receitas
-- [ ] Cadastro de Despesas
-- [ ] Contas Bancárias
-- [ ] Cartões
-- [ ] Metas Financeiras
-- [ ] Relatórios PDF
-- [ ] Relatórios Excel
-- [ ] Backup Automático
-- [ ] Tema Escuro
-- [ ] Tema Claro
-- [ ] Gráficos
+- [x] Dashboard Financeiro
+- [x] Cadastro de Receitas
+- [x] Cadastro de Despesas
+- [x] Contas Bancárias
+- [x] Cartões
+- [x] Metas Financeiras
+- [x] Relatórios PDF
+- [x] Relatórios Excel
+- [x] Backup Automático
+- [x] Tema Escuro
+- [x] Tema Claro
+- [x] Gráficos
 - [ ] Pesquisa Inteligente
 - [ ] Atualizador Automático
 
